@@ -1,1 +1,25 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Promotional Game Demo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Promotional Game Demo</h1>
+    <p>Engage users and drive traffic for businesses</p>
 
+    <button onclick="playGame()">Play Game</button>
+    <p id="result"></p>
+  </div>
+
+  <script>
+    function playGame() {
+      document.getElementById("result").innerText =
+        "🎉 User engaged! Brand interaction recorded.";
+    }
+  </script>
+</body>
+</html>
