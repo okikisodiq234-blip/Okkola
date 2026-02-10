@@ -61,3 +61,4 @@ If you are a business owner or agency looking to **boost traffic through gamific
 
 ## 📩 Contact
 For customization, deployment, or collaboration, feel free to reach out.
+thanks
